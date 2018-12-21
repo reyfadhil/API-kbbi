@@ -1,7 +1,7 @@
 {
-  "name": "KBBI-FullVersion",
+  "name": "KBBI-Authentication",
   "version": "1.0.0",
-  "description": "Gabungan Scraper dan Authentication",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
@@ -12,9 +12,6 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "mongoose": "^5.0.1",
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+    "mongoose": "^5.0.1"
   }
 }
